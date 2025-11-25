@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Anderson.
 - 👀 I’m interested in Python Programming, SQL, Playing Piano, and Cloud Computing.
-- 🌱 I’m currently learning Intermediate Python via Codecademy,  Come Fly With Me by Frank Sinatra, and studying to take my AZ-104 certification exam.
+- 🌱 I’m currently learning Intermediate Python via Codecademy, and studying to take my AZ-104 certification exam.
 - 📫 How to reach me:  robertja@gmail.com or 608-371-7750.
 
 <!---
